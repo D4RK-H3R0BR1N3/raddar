@@ -112,3 +112,7 @@ detoxcrypto
 fakelock
 chimera
 crowti
+filecoder 
+conti
+sodinokibi 
+nephilim
